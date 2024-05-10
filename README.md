@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **a mentor in the software development field**
 
-- 👨‍💻 All of my projects are available at [https://jessyoungdev.github.io/Portfolio/](https://jessyoungdev.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [[https://jessyoungdev.github.io/Portfolio/]([https://jessyoungdev.github.io/Portfolio/](https://github.com/Jessyoungdev))](https://github.com/Jessyoungdev)
 
 - 💬 Ask me about **HTML, CSS, Flexbox, Grid, Bootstrap, Javascript**
 
